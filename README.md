@@ -1,5 +1,16 @@
 # odin-recipes
 
-Project to demonstrate basic knowledge of HTML elements
+First Odin project to demonstrate basic knowledge of HTML and HTML elements 
 
-Knowdledge learned by the end of the lesson
+Knowledge gained by completing this project:
+* How to generate basic boiler plate html code
+* Creating an html title
+* How to link between pages
+* Provide different types of headers 
+* Insert image into a webpage
+* Insert paragraphs
+* Create an unordered list
+* Create an ordered list
+* How to manage a project directory system
+    * Separating files based on their purpose
+* How to host project on github.com

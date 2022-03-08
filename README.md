@@ -11,6 +11,7 @@ Knowledge gained by completing this project:
 * Insert paragraphs
 * Create an unordered list
 * Create an ordered list
+* How to nest html elements into other html elements
 * How to manage a project directory system
     * Separating files based on their purpose
 * How to host project on github.com

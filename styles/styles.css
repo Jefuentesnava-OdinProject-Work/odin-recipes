@@ -6,6 +6,11 @@
     font-weight: bold;
 }
 
+.second-header {
+    color: #9fd3c7;
+    background-color: #142d4c;
+}
+
 .image {
     height: auto;
     width: 500px;
@@ -14,4 +19,10 @@
 .recipes {
     color:#385170;
     font-size: large;
+}
+
+.copyright {
+    font-weight: bolder;
+    background-color: #142d4c;
+    color:#ececec;
 }

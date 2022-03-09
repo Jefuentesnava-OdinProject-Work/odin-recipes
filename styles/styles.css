@@ -1,3 +1,17 @@
 h1 {
     text-align: center;
+    background-color: #142d4c;
+    color:#ececec;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.image {
+    height: auto;
+    width: 500px;
+}
+
+.recipes {
+    color:#385170;
+    font-size: large;
 }

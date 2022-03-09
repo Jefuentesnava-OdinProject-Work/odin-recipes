@@ -20,6 +20,7 @@ Knowledge gained by completing this project:
     * Change color of text and element backgrounds
     * Adjust text
     * Insert images and adjust dimensions
+    * Link external font
 * Git/Github
     * How to manage a project directory system
         * Separating files based on their purpose

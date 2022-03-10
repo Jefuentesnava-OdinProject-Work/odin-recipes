@@ -1,5 +1,5 @@
 * {
-    font-family: 'Sansita Swashed', cursive;;
+    font-family: 'Sansita Swashed', cursive;
 }
 
 .top-header {
@@ -13,6 +13,11 @@
 .second-header {
     color: #9fd3c7;
     background-color: #142d4c;
+}
+
+div{
+    width: 500px;
+    margin: 0 auto;
 }
 
 .image {

@@ -21,6 +21,7 @@ Knowledge gained by completing this project:
     * Adjust text
     * Insert images and adjust dimensions
     * Link external font
+    * Center contents of <div> using margin
 * Git/Github
     * How to manage a project directory system
         * Separating files based on their purpose
